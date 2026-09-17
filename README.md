@@ -31,8 +31,8 @@ The result: RM's predictability when things are normal, EDF's efficiency when th
 An interactive web simulator lets you configure tasks and watch RM, EDF, and the adaptive scheduler run side by side in real time.
 
 ```sh
-pnpm install
-pnpm dev
+npm install
+npm run dev
 ```
 
 Open **http://localhost:3000**.
